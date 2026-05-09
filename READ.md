@@ -7,3 +7,11 @@ Curso: https://www.llmagents.ic.unicamp.br/disciplinas.html
     Período: 01/04/2026 a 30/04/2026
     Carga Horária: 15 horas (10h teórica + 5h prática)
 
+
+Resumo da última atividade: 
+
+<img width="1536" height="1024" alt="Resumo_FineTuningCom_QLora" src="https://github.com/user-attachments/assets/581ac0cb-bf8a-4b76-8a4e-5fceff7a2307" />
+
+
+<img width="1024" height="1536" alt="Resumo_FineTuning_ComQLora_V2" src="https://github.com/user-attachments/assets/896e2ce7-8714-4e6b-8b2e-613b8dd65686" />
+
